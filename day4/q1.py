@@ -185,11 +185,3 @@ print ("\nPart 2")
 bingo2 = Game()
 bingo2.loadGame(fname)
 bingo2.lastToWin()
-            
-
-        
-            
-
-        
-            
-        
