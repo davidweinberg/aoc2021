@@ -1,3 +1,4 @@
+# aoc, day5
 from dataclasses import dataclass
 
 max_x = 1000
