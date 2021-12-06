@@ -1,3 +1,4 @@
+#aoc day 6
 from collections import defaultdict
 
 with open('data.txt', 'r') as file:
